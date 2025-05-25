@@ -62,7 +62,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         url: "https://cdn.000000.cloud/img/20250524134505662.png",
         title: "???",
       },
-
+      
       beian: {
         enable: false,
         icp: "",
