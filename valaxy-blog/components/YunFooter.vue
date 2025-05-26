@@ -15,7 +15,7 @@ useScriptTag('//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js')
       <span style="margin: 0 8px;">|</span>
       <a 
         style="text-decoration:none; color:#e77c8e; display:inline-flex; align-items:center; gap:4px;" 
-        href="https://travel.moe/go.html" 
+        href="https://travel.moe/go.html?travel=on" 
         title="异次元之旅-跃迁-我们一起去萌站成员的星球旅行吧！" 
         target="_blank"
       >
